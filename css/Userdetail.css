@@ -1,0 +1,80 @@
+body{
+    margin-left: 0px;
+    margin-top: 10px;
+    background:url(userdetail\ img.jpg)no-repeat center center fixed;
+    background-size: cover;
+}
+.headline{
+    .title{
+        margin-left: 190px;
+        margin-top: -140px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+    }
+    .logo{
+        margin-left: 10px;
+    }
+    .link{
+        margin-left: 1100px;
+        margin-top: -50px;
+        
+        a{
+            text-decoration: none;
+            color: white;
+            font-size: 24px;
+        }
+    }
+}
+.detail{
+    border: 2px solid black;
+    width: 1400px;
+    height: 600px;
+    margin-left: 70px;
+    margin-top: 300px;
+    backdrop-filter:brightness(30%);
+    border-radius: 30px;
+    .user{
+        margin-left: 100px;
+        margin-top: 50px;
+        .button{
+            margin-left: 600px;
+            margin-top: 70px;
+        }
+        .user1{
+            margin-left: 10px;
+            input{
+                width: 200px;
+                height: 30px;
+            }
+        }
+        .user2{
+            margin-left: 530px;
+            margin-top: -309px;
+            input{
+                width: 200px;
+                height: 30px;
+            }
+        }
+        .user3{
+            margin-left: 1000px;
+            margin-top: -300px;
+            input{
+                width: 200px;
+                height: 30px;
+            }
+        }
+        .button1{
+            button{
+                margin-left: 10px;
+                margin-top: 20px;
+                background-color: black;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                padding-left: 15px;
+                padding-right: 15px;
+                border-radius: 13px;
+                color: white;
+            }
+        }
+    }
+}

@@ -1,0 +1,193 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: url(back\ gb\ image1.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+
+}
+.headline{
+    .title{
+        margin-left: 190px;
+        margin-top: -140px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+    }
+    .logo{
+        margin-left: 10px;
+    }
+}
+.link1{
+    .link{
+        position: relative;
+        width: 500px;
+        left: 900px;
+        top: -50px;
+        display: flex;
+        justify-content: space-around;
+        button{
+            background-color: rgb(35, 33, 33);
+            a{
+            text-decoration: none;
+            color: white;
+            font-size: 20px;
+        }
+        }
+    }
+}
+.items{
+    margin-top: 190px;
+    margin-bottom: 0px;
+    border: 2px solid;
+    width: 1500px;
+    height: 1200px;
+    border-radius: 30px;
+    backdrop-filter: brightness(25%);
+    h1{
+        font-weight: normal;
+        font-size: 35px;
+        margin-left: 25px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 10px;
+        padding-right: 30px;
+        border-radius: 20px;
+    }
+.fruits{
+    margin-top: 100px;
+    margin-left: 30px;
+    margin-right: 0px;
+    border: 2px solid ;
+    width: 350px;
+    height: 400px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.75);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+   
+    h1{
+        font-weight: normal;
+        font-size: 35px;
+        margin-left: 25px;
+        text-shadow: 0px 0px 2px rgba(red, green, blue, alpha);
+    }
+    img{
+        border-radius: 200px;
+        margin-left: 10px;
+    }
+    p{
+        color: wheat;
+        font-size: 20px;
+        margin-top: 20px;
+        margin-left: 110px;
+        margin-right: 0px;
+        border: 2px solid black;
+    }
+}
+.vegetables{
+    border: 2px solid;
+    margin-left: 560px;
+    margin-top: -407px;
+    margin-right: 0px;
+    border: 2px solid;
+    width: 350px;
+    height: 400px;
+    background-color: ;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.75);
+    border-radius: 30px;
+    h1{
+        font-weight: normal;
+        font-size: 35px;
+        margin-left: 25px;
+        text-shadow: 0px 0px 2px rgba(red, green, blue, alpha);
+    }
+    img{
+        border-radius: 200px;
+        margin-left: 16px;
+    }
+}
+.paru{
+    margin-left: 1100px;
+    margin-top: -400px;
+    border: 2px solid;
+    width: 350px;
+    height: 400px;
+    background-color: ;
+    border-radius: 30px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.75);
+    h1{
+        font-weight: normal;
+        font-size: 35px;
+        margin-left: 25px;
+        text-shadow: 0px 0px 2px rgba(red, green, blue, alpha);
+    }
+    img{
+        border-radius: 200px;
+        margin-left: 19px;
+    }
+}
+.salt{
+    margin-left: 30px;
+    margin-top: 150px;
+    border: 2px solid;
+    width: 350px;
+    height: 400px;
+    background-color:;
+    border-radius: 30px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.75);
+    h1{
+        font-weight: normal;
+        font-size: 35px;
+        margin-left: 25px;
+        text-shadow: 0px 0px 2px rgba(red, green, blue, alpha);
+    }
+    img{
+        border-radius: 200px;
+        margin-left: 20px;
+    }
+}
+.masala{
+    margin-left: 570px;
+    margin-top: -400px;
+    border: 2px solid;
+    width: 350px;
+    height: 400px;
+    background-color:;
+    border-radius: 30px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.75);
+    h1{
+        font-weight: normal;
+        font-size: 35px;
+        margin-left: 25px;
+        margin-top: -2px;
+        text-shadow: 0px 0px 2px rgba(red, green, blue, alpha);
+    }
+    img{
+        border-radius: 200px;
+        margin-top: -20px;
+        margin-left: 20px;
+    }
+}
+.oil{
+    margin-top: -400px;
+    margin-left: 1100px;
+    border: 2px solid;
+    width: 350px;
+    height: 400px;
+    background-color:;
+    border-radius: 30px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.75);
+    h1{
+        font-weight: normal;
+        font-size: 35px;
+        margin-left: 25px;
+        text-shadow: 0px 0px 2px rgba(red, green, blue, alpha);
+    }
+    img{
+        border-radius: 200px;
+        margin-left: 20px;
+    }
+
+}
+}

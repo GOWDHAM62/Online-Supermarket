@@ -1,0 +1,28 @@
+body{
+    margin-left: 10px;
+    margin-top: 10px;
+    background:url()no-repeat center center fixed;
+    background-size: cover;
+}
+.image{
+    margin-top: 200px;
+    margin-left: 610px;
+}
+.text{
+    margin-left: 530px;
+}
+.text2{
+    margin-left: 550px;
+    a{
+        margin-left: 210px;
+        text-decoration: none;
+        font-size: 24px;
+        background-color: black;
+        border-radius: 15px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-left: 10px;
+        padding-right: 10px;
+
+    }
+}

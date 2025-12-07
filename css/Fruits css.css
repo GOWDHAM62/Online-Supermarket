@@ -1,0 +1,521 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: url(Fruits\ bg\ image\ new.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+}
+.headline{
+    .title{
+        margin-left: 190px;
+        margin-top: -140px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+    }
+    .logo{
+        margin-left: 10px;
+    }
+    .link{
+        margin-left: 900px;
+        margin-top: -40px;
+        margin-bottom: 0px;
+        a{
+            text-decoration: none;
+            color: white;
+            font-size: 24px;
+        }
+    }
+}
+.fruitsitems{
+    border: 2px solid black;
+    margin-top: 190px;
+    margin-bottom: 0px;
+    width: 1500px;
+    height: 2000px;
+    border-radius: 30px;
+    backdrop-filter: brightness(25%);
+    h1{
+        font-weight: normal;
+        font-size: 35px;
+        margin-left: 25px;
+        margin-top: 20px;
+    }
+    .fruits1{
+        margin-left: 50px;
+        margin-top: 150px;
+        margin-bottom: 0px;
+        border: 2px solid black;
+        width: 290px;
+        height: 420px;
+        border-radius: 5px;
+        backdrop-filter: brightness(100%);
+        img{
+            margin-left: 15px;
+            margin-top: 10px;
+            margin-bottom: 0px;
+            border-radius: 20px;
+            border: 2px solid black;
+        }
+        h3{
+            margin-left: 40px;
+        }
+        select{
+            margin-left: 40px;
+            backdrop-filter: brightness(80%);
+            height: 55px;
+            line-height: 70px;
+            border-radius: 10px;
+            font-size: 15px;
+        }
+        a{
+            margin-left: 170px;
+            margin-top: -280px;
+            margin-bottom: 0px;
+            text-decoration: none;
+            color: white;
+            background-color: black;
+            border-radius: 20px;
+            padding-top: 13px;
+            padding-bottom: 13px;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+    }
+    .fruits2{
+        margin-left: 430px;
+        margin-top: -420px;
+        margin-bottom: 0px;
+        border: 2px solid black;
+        width: 290px;
+        height: 420px;
+        border-radius: 20px;
+        backdrop-filter: brightness(80%);
+        img{
+            margin-left: 15px;
+            margin-top: 10px;
+            margin-bottom: 0px;
+            border-radius: 15px;
+            border: 2px solid black;
+        }
+        h3{
+            margin-left: 40px;
+        }
+        select{
+            margin-left: 40px;
+            backdrop-filter: brightness(80%);
+            height: 55px;
+            line-height: 70px;
+            border-radius: 10px;
+            font-size: 15px;
+        }
+        a{
+            margin-left: 170px;
+            margin-top: -250px;
+            margin-bottom: 0px;
+            text-decoration: none;
+            color: white;
+            background-color: black;
+            border-radius: 20px;
+            padding-top: 13px;
+            padding-bottom: 13px;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+    }
+    .fruits3{
+        margin-left: 800px;
+        margin-top: -420px;
+        margin-bottom: 0px;
+        border: 2px solid black;
+        width: 290px;
+        height: 420px;
+        border-radius: 20px;
+        img{
+            margin-left: 15px;
+            margin-top: 10px;
+            margin-bottom: 0px;
+            border-radius: 15px;
+            border: 2px solid black;
+        }
+        h3{
+            margin-left: 40px;
+        }
+        select{
+            margin-left: 40px;
+            backdrop-filter: brightness(80%);
+            height: 55px;
+            line-height: 70px;
+            border-radius: 10px;
+            font-size: 15px;
+        }
+        a{
+            margin-left: 170px;
+            margin-top: -250px;
+            margin-bottom: 0px;
+            text-decoration: none;
+            color: white;
+            background-color: black;
+            border-radius: 20px;
+            padding-top: 13px;
+            padding-bottom: 13px;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+    }
+    .fruits4{
+        margin-left: 1170px;
+        margin-top: -420px;
+        margin-bottom: 0px;
+        border: 2px solid black;
+        width: 290px;
+        height: 420px;
+        border-radius: 20px;
+        img{
+            margin-left: 15px;
+            margin-top: 10px;
+            margin-bottom: 0px;
+            border-radius: 15px;
+            border: 2px solid black;
+        }
+        h3{
+            margin-left: 40px;
+        }
+        select{
+            margin-left: 40px;
+            backdrop-filter: brightness(80%);
+            height: 55px;
+            line-height: 70px;
+            border-radius: 10px;
+            font-size: 15px;
+        }
+        a{
+            margin-left: 170px;
+            margin-bottom: 0px;
+            text-decoration: none;
+            color: white;
+            background-color: black;
+            border-radius: 20px;
+            padding-top: 13px;
+            padding-bottom: 13px;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+    }
+    .fruits5{
+        margin-left: 50px;
+        margin-top: 150px;
+        margin-bottom: 0px;
+        border: 2px solid black;
+        width: 290px;
+        height: 420px;
+        border-radius: 20px;
+        img{
+            margin-left: 15px;
+            margin-top: 10px;
+            margin-bottom: 0px;
+            border-radius: 15px;
+            border: 2px solid black;
+        }
+        h3{
+            margin-left: 40px;
+        }
+        select{
+            margin-left: 40px;
+            backdrop-filter: brightness(80%);
+            height: 55px;
+            line-height: 70px;
+            border-radius: 10px;
+            font-size: 15px;
+        }
+        a{
+            margin-left: 170px;
+            margin-bottom: 0px;
+            text-decoration: none;
+            color: white;
+            background-color: black;
+            border-radius: 20px;
+            padding-top: 13px;
+            padding-bottom: 13px;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+    }
+    .fruits6{
+        margin-left: 430px;
+        margin-top: -420px;
+        margin-bottom: 0px;
+        border: 2px solid black;
+        width: 290px;
+        height: 420px;
+        border-radius: 20px;
+        img{
+            margin-left: 15px;
+            margin-top: 10px;
+            margin-bottom: 0px;
+            border-radius: 15px;
+            border: 2px solid black;
+        }
+        h3{
+            margin-left: 40px;
+        }
+        select{
+            margin-left: 40px;
+            backdrop-filter: brightness(80%);
+            height: 55px;
+            line-height: 70px;
+            border-radius: 10px;
+            font-size: 15px;
+        }
+        a{
+            margin-left: 170px;
+            margin-bottom: 0px;
+            text-decoration: none;
+            color: white;
+            background-color: black;
+            border-radius: 20px;
+            padding-top: 13px;
+            padding-bottom: 13px;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+    }
+    .fruits7{
+        margin-left: 800px;
+        margin-top: -420px;
+        margin-bottom: 0px;
+        border: 2px solid black;
+        width: 290px;
+        height: 420px;
+        border-radius: 20px;
+        img{
+            margin-left: 15px;
+            margin-top: 10px;
+            margin-bottom: 0px;
+            border-radius: 15px;
+            border: 2px solid black; 
+        }
+        h3{
+            margin-left: 40px;
+        }
+        select{
+            margin-left: 40px;
+            backdrop-filter: brightness(80%);
+            height: 55px;
+            line-height: 70px;
+            border-radius: 10px;
+            font-size: 15px;
+        }
+        a{
+            margin-left: 170px;
+            margin-bottom: 0px;
+            text-decoration: none;
+            color: white;
+            background-color: black;
+            border-radius: 20px;
+            padding-top: 13px;
+            padding-bottom: 13px;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+    }
+    .fruits8{
+        margin-left: 1170px;
+        margin-top: -420px;
+        margin-bottom: 0px;
+        border: 2px solid black;
+        width: 290px;
+        height: 420px;
+        border-radius: 20px;
+        img{
+            margin-left: 15px;
+            margin-top: 10px;
+            margin-bottom: 0px;
+            border-radius: 15px;
+            border: 2px solid black; 
+        }
+        h3{
+            margin-left: 40px;
+        }
+        select{
+            margin-left: 40px;
+            backdrop-filter: brightness(80%);
+            height: 55px;
+            line-height: 70px;
+            border-radius: 10px;
+            font-size: 15px;
+        }
+        a{
+            margin-left: 170px;
+            margin-bottom: 0px;
+            text-decoration: none;
+            color: white;
+            background-color: black;
+            border-radius: 20px;
+            padding-top: 13px;
+            padding-bottom: 13px;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+    }
+    .fruits9{
+        margin-left: 50px;
+        margin-top: 150px;
+        margin-bottom: 0px;
+        border: 2px solid black;
+        width: 290px;
+        height: 420px;
+        border-radius: 20px;
+        img{
+            margin-left: 15px;
+            margin-top: 10px;
+            margin-bottom: 0px;
+            border-radius: 15px;
+            border: 2px solid;
+        }
+        h3{
+            margin-left: 40px;
+        }
+        select{
+            margin-left: 40px;
+            backdrop-filter: brightness(80%);
+            height: 55px;
+            line-height: 70px;
+            border-radius: 10px;
+            font-size: 15px;
+        }
+        a{
+            margin-left: 170px;
+            margin-top: -280px;
+            margin-bottom: 0px;
+            text-decoration: none;
+            color: white;
+            background-color: black;
+            border-radius: 20px;
+            padding-top: 13px;
+            padding-bottom: 13px;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+    }
+    .fruits10{
+        margin-left: 430px;
+        margin-top: -420px;
+        margin-bottom: 0px;
+        border: 2px solid black;
+        width: 290px;
+        height: 420px;
+        border-radius: 20px;
+        img{
+            margin-left: 15px;
+            margin-top: 10px;
+            margin-bottom: 0px;
+            border-radius: 15px;
+            border: 2px solid black;
+        }
+        h3{
+            margin-left: 40px;
+        }
+        select{
+            margin-left: 40px;
+            backdrop-filter: brightness(80%);
+            height: 55px;
+            line-height: 70px;
+            border-radius: 10px;
+            font-size: 15px;
+        }
+        a{
+            margin-left: 170px;
+            margin-top: -280px;
+            margin-bottom: 0px;
+            text-decoration: none;
+            color: white;
+            background-color: black;
+            border-radius: 20px;
+            padding-top: 13px;
+            padding-bottom: 13px;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+    }
+    .fruits11{
+        margin-left: 800px;
+        margin-top: -420px;
+        margin-bottom: 0px;
+        border: 2px solid black;
+        width: 290px;
+        height: 420px;
+        border-radius: 20px;
+        img{
+            margin-left: 15px;
+            margin-top: 10px;
+            margin-bottom: 0px;
+            border-radius: 15px;
+            border: 2px solid black;
+        }
+        h3{
+            margin-left: 40px;
+        }
+        select{
+            margin-left: 40px;
+            backdrop-filter: brightness(80%);
+            height: 55px;
+            line-height: 70px;
+            border-radius: 10px;
+            font-size: 15px;
+        }
+        a{
+            margin-left: 170px;
+            margin-top: -250px;
+            margin-bottom: 0px;
+            text-decoration: none;
+            color: white;
+            background-color: black;
+            border-radius: 20px;
+            padding-top: 13px;
+            padding-bottom: 13px;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+    }
+    .fruits12{
+        margin-left: 1170px;
+        margin-top: -420px;
+        margin-bottom: 0px;
+        border: 2px solid black;
+        width: 290px;
+        height: 420px;
+        border-radius: 20px;
+        img{
+            margin-left: 15px;
+            margin-top: 10px;
+            margin-bottom: 0px;
+            border-radius: 15px;
+            border: 2px solid black; 
+        }
+        h3{
+            margin-left: 40px;
+        }
+        select{
+            margin-left: 40px;
+            backdrop-filter: brightness(80%);
+            height: 55px;
+            line-height: 70px;
+            border-radius: 10px;
+            font-size: 15px;
+        }
+        a{
+            margin-left: 170px;
+            margin-bottom: 0px;
+            text-decoration: none;
+            color: white;
+            background-color: black;
+            border-radius: 20px;
+            padding-top: 13px;
+            padding-bottom: 13px;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+    }
+    
+}
+
